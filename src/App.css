@@ -1,0 +1,14 @@
+ #part1{
+    background-image: url('https://img.freepik.com/premium-photo/office-meeting_1037680-13238.jpg');
+    height: 550px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+ }
+  #part2{
+    background-image: url('https://cdn.pixabay.com/photo/2024/04/05/05/17/business-8676529_1280.jpg');
+    height: 550px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+ }
